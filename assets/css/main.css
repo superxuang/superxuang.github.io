@@ -2638,6 +2638,13 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		#header p {
+			color: rgba(255, 255, 255, 0.5);
+			font-size: 1.00em;
+			line-height: 1.00em;
+			margin: 0;
+		}
+
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
